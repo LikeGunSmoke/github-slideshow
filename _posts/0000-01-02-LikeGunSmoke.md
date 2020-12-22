@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"And into the forest I go to lose my mind and find my soul"
 Use the left arrow to go back!
